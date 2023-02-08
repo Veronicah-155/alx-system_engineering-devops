@@ -1,1 +1,2 @@
-#!/bin/bash/nrm betty
+#!/bin/bash
+rm betty
