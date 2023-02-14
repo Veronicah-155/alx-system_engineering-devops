@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr '!' '/M' | wc-1
+echo $PATH | tr '!' '/M' | wc -1
